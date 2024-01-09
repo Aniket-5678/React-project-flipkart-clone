@@ -1,0 +1,88 @@
+{ "phones" : [
+    {
+        "id": 1,
+        "imageURL": "https://cdn.cs.1worldsync.com/43/c9/43c94caf-7279-49cc-bbaa-75153531114b.jpg",
+        "name": "iphone14pro",
+        "bestoffer": "80% off",
+        "price": 40000
+    },
+    {
+        "id": 2,
+        "imageURL": "https://media.mobex.in/media/catalog/product/a/p/apple-12-smartphones-491901536-i-1-1200wx1200h.jpg?auto=webp&format=pjpg&width=640&height=800&fit=cover",
+        "name": "iphone12",
+        "bestoffer": "80% off",
+        "price": 40000
+    },
+   
+    {
+        "id": 3,
+        "imageURL": "https://vasanthandco.in/images/productimages/716dd03-dbuntitled-1.png",
+        "name": "iphone13pro",
+        "bestoffer": "80% off",
+        "price": 40000
+    },
+    {
+        "id": 4,
+        "imageURL": "https://m.media-amazon.com/images/I/81c50PU+lpL.jpg",
+        "name": "iphone15pro",
+        "bestoffer": "80% off",
+        "price": 40000
+    },
+    {
+      "id": 5,
+      "imageURL": "https://sathya.in/media/89234/catalog/Samsung%20Mobile%20Galaxy%20S23%208GB%20RAM%20256GB.jpg",
+      "name": "Sumsung,galaxys23",
+      "bestoffer": "80% off",
+      "price": 40000
+  },
+  {
+    "id": 6,
+    "imageURL": "https://images.samsung.com/is/image/samsung/assets/in/smartphones/galaxy-s22/buy/S22_KV_4_MO.jpg",
+    "name": "Sumsung,galaxy,s22",
+    "bestoffer": "80% off",
+    "price": 40000
+},
+{
+  "id": 7,
+  "imageURL": "https://rukminim2.flixcart.com/image/850/1000/xif0q/mobile/j/b/r/galaxy-f14-5g-sm-e146bzkhins-samsung-original-imagnzdkvrt2sxrq.jpeg?q=90",
+  "name": "Sumsung,galaxy,F14,Black,128GB",
+  "bestoffer": "80% off",
+  "price": 40000
+},
+{
+  "id": 8,
+  "imageURL": "https://newmobiles.com.pk/wp-content/uploads/2022/10/Samsung-Galaxy-A33-images.jpg",
+  "name": "Sumsung,galaxy,A33",
+  "bestoffer": "80% off",
+  "price": 40000
+},
+{
+  "id": 9,
+  "imageURL": "https://i02.appmifile.com/979_operator_in/12/08/2021/6e2a99cf7decf70d9e58a2871c1f19c0.png",
+  "name": "RedmiNote10 pro",
+  "bestoffer": "80% off",
+  "price": 17000
+},
+{
+  "id": 10,
+  "imageURL": "https://i02.appmifile.com/353_operator_in/30/01/2021/875bfa2f1b429d824feea13747f0a5f8!800x800!85.png",
+  "name": "RedmiNote8 pro",
+  "bestoffer": "80% off",
+  "price": 12000
+},
+{
+  "id": 11,
+  "imageURL": "https://i01.appmifile.com/webfile/globalimg/in/cms/02DCACAD-C230-779F-34E5-19E31FAD5F02!800x800!85.jpg",
+  "name": "RedmiNote9 pro",
+  "bestoffer": "50% off",
+  "price": 8000
+},
+{
+  "id": 12,
+  "imageURL": "https://cdn.webshopapp.com/shops/256009/files/407963710/xiaomi-xiaomi-redmi-note-11-pro-5g-6gb-64gb.jpg",
+  "name": "RedmiNote11 pro",
+  "bestoffer": "80% off",
+  "price": 20000
+}
+]
+}

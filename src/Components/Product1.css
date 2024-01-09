@@ -1,0 +1,62 @@
+
+
+
+
+.details-container{
+    display: flex;
+    margin-left: 50px;
+}
+.details-main{
+    border: 1px solid #ECECEC;
+    width: 500px;
+    height: 550px;
+    text-align: center;
+    background-color: #fff;
+    margin: 50px 20px;
+}
+.details{
+    height: 400px;
+    margin: 10px 0px;
+}
+.details-btn{
+    border: 1px solid brown;
+    background-color: brown;
+    padding: 3px 10px;
+    border-radius: 3px;
+    color: white;
+    margin: 5px 0px;
+    cursor: pointer;
+}
+.details-btn1{
+    border: 1px solid orange;
+    background-color: orange;
+    padding: 3px 10px;
+    border-radius: 3px;
+    color: white;
+    margin-left: 5px;
+    cursor: pointer;
+}
+
+
+
+.description{
+    margin: 50px 0px;
+    border: 1px solid #ECECEC;
+    width: 80%;
+    height: 550px;
+}
+.descprition-details{
+    font-size: 1.2rem;
+}
+.wrranty{
+    margin: 20px 0px;
+    color: grey;
+    font-weight: lighter;
+}
+.content{
+   margin: 3px 5px;
+}
+.highlights{
+    margin: 20px 0px;
+    
+}

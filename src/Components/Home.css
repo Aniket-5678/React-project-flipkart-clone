@@ -1,0 +1,145 @@
+.Home-container{
+    background-color: #ECECEC;
+}
+
+.banner-image{
+    width: 100%;
+    height: 400px;
+    margin: 10px 0px;
+    box-sizing: 100%,100%;
+}
+
+
+
+
+.product-container{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    height: 400px;
+    padding: 15px;
+    margin: 20px 30px;
+    background-color: #FFFFFF;
+}
+.product-main{
+    width: 290px;
+    height: 300px;
+    text-align: center;
+    border: 1px solid #ECECEC;
+    margin: 60px 10px;
+    background-color: 	#FFFFFF;
+}
+.product-image{
+    height: 200px;
+    margin: 10px 0px;
+}
+
+
+.prdouct2-container{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    height: 400px;
+    padding: 15px;
+    margin: 20px 30px;
+    background-color: #FFFFFF;
+}
+.products2{
+    width: 290px;
+    height: 300px;
+    text-align: center;
+    border: 1px solid #ECECEC;
+    margin: 60px 10px;
+    background-color: 	#FFFFFF;
+}
+.product2-images{
+    height: 200px;
+    margin: 10px 0px;
+}
+
+
+
+
+
+
+
+
+
+.product3-container{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    height: 400px;
+    padding: 15px;
+    margin: 20px 30px;
+    background-color: #FFFFFF;
+}
+.product3-main{
+    width: 290px;
+    height: 300px;
+    text-align: center;
+    border: 1px solid #ECECEC;
+    margin: 60px 10px;
+    background-color: 	#FFFFFF;
+}
+.product3-images{
+    height: 200px;
+    margin: 10px 0px;
+}
+.product3-main h3{
+    padding: 3px 5px;
+}
+
+.Footer-container{
+    display: flex;
+    width: 100%;
+    height: 250px;
+    background-color: rgb(24, 23, 23);
+}
+.Footer-main{
+    display: flex;
+    flex-direction: column;
+    padding: 0px 60px;
+    margin: 50px 50px;
+}
+.Footer-main p{
+    color: grey;
+}
+.Footer2-main{
+    display: flex;
+    flex-direction: column;
+    padding: 0px 60px;
+    margin: 50px 50px;
+
+}
+.Footer2-main p{
+    color: grey;
+}
+.Foot{
+    
+    list-style: none;
+    text-decoration: none;
+    color: white;
+}
+.Foot1{
+    list-style: none;
+    text-decoration: none;
+    color: white;
+}
+
+
+
+
+
+
+.text{
+    text-decoration: none;
+    list-style: none;
+    color: black;
+}
+
+.text2{
+    text-decoration: none;
+    list-style: none;
+    color: black;
+}

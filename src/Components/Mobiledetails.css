@@ -1,0 +1,38 @@
+
+
+.Mobiledetails-container{
+    display: flex;
+    margin-left: 50px;
+}
+
+.Mobiledetails-main{
+    border: 1px solid gray;
+    width: 500px;
+    height: 500px;
+    text-align: center;
+    background-color: #fff;
+    margin: 50px 0px;
+}
+.Mobiledetails-image{
+    height: 400px;
+    margin: 10px 0px;
+}
+.Mobiledetails-btn {
+    border: 1px solid brown;
+    background-color: brown;
+    padding: 3px 10px;
+    border-radius: 3px;
+    color: white;
+    margin: 5px 0px;
+    cursor: pointer;
+}
+
+.Mobiledetails-btn1 {
+    border: 1px solid orange;
+    background-color: orange;
+    padding: 3px 10px;
+    border-radius: 3px;
+    color: white;
+    margin-left: 5px;
+    cursor: pointer;
+}

@@ -1,0 +1,98 @@
+   { 
+    "products": [
+    {
+        "id": 1,
+        "imageURL": "https://cdn.cs.1worldsync.com/43/c9/43c94caf-7279-49cc-bbaa-75153531114b.jpg",
+        "name": "iphone 14pro",
+        "bestoffer": "80% off"
+    },
+    {
+        "id": 2,
+        "imageURL": "https://media.mobex.in/media/catalog/product/a/p/apple-12-smartphones-491901536-i-1-1200wx1200h.jpg?auto=webp&format=pjpg&width=640&height=800&fit=cover",
+        "name": "iphone 12",
+        "bestoffer": "80% off"
+    },
+   
+    {
+        "id": 3,
+        "imageURL": "https://vasanthandco.in/images/productimages/716dd03-dbuntitled-1.png",
+        "name": "iphone 13,pro",
+        "bestoffer": "80% off"
+    },
+    {
+        "id": 4,
+        "imageURL": "https://m.media-amazon.com/images/I/81c50PU+lpL.jpg",
+        "name": "iphone 15,pro",
+        "bestoffer": "80% off"
+    }
+],
+ "products2": [
+    {
+        
+            "id": 1,
+            "imageURL": "https://media-assets.grailed.com/prd/listing/37075096/dffd68a00e6f445397bef100020209ba",
+            "name": "H&M shirt",
+            "bestoffer": "50% off"
+        
+    },
+    {
+        
+        "id": 2,
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5DGhB2ZZ8cG6xIf6Poeu4xdfqAyOwDXVSfA&usqp=CAU",
+        "name": "Black tshirt",
+        "bestoffer": "50% off"
+    
+},
+{
+        
+    "id": 3,
+    "imageURL": "https://blackberrys.com/cdn/shop/products/Westley_Casual_Check_Shirt_In_Maroon-USBU0403R2NS22FN-image1.jpg?v=1687858822",
+    "name": "over size shirt",
+    "bestoffer": "50% off"
+
+},
+{
+        
+"id": 4,
+"imageURL": "https://media.vogue.in/wp-content/uploads/2020/01/white-shirt-hm.jpg",
+"name": " H&M tshirt",
+"bestoffer": "50% off"
+
+}
+],
+
+"Products3" :[
+    {
+        
+            "id": 1,
+            "imageURL": "https://vasanthandco.in/images/productimages/1165__product__Refrigerator__samsung-192-l-2-star-rr20a181bu8-hl-direct-cool-single-door-refrigerator-2.png",
+            "name": " sumsung, Refrigeter,Fridge",
+            "bestoffer": "50% off"
+        
+    },
+    {
+        
+        "id": 2,
+        "imageURL": "https://www.lg.com/in/images/washing-machines/md07540887/gallery/FHM1408BDL-Washing-Machines-Right-View-MZ-04-v1.jpg",
+        "name": "8kg front load washing,machine",
+        "bestoffer": "50% off"
+    
+},
+{
+        
+    "id": 3,
+    "imageURL": "https://shop.ttkprestige.com/media/catalog/product/cache/4621d7ae1d3cb7858b425ba98dff92b3/4/2/42527-IMG1_2.jpg",
+    "name": " Best,grinder,mixer",
+    "bestoffer": "50% off"
+
+},
+{
+        
+ "id": 4,
+ "imageURL": "https://www.lg.com/in/images/microwave-ovens/md07514180/gallery/MC2887BFUM-microwave-ovens-Left-Side-view-MZ-04.jpg",
+ "name": " Buy lwg Microovan",
+ "bestoffer": "50% off"
+
+}
+]
+}
